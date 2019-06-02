@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="algor">
+      <UniqueIdentifier>{252911ec-c3b3-4842-87c5-3c31c1c8ad2e}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="pch.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="algor\addTwoNumbers.hpp">
+      <Filter>algor</Filter>
+    </ClInclude>
+    <ClInclude Include="algor\findMedianSortedArrays.hpp">
+      <Filter>algor</Filter>
+    </ClInclude>
+    <ClInclude Include="algor\longestPalindrome.hpp">
+      <Filter>algor</Filter>
+    </ClInclude>
+    <ClInclude Include="algor\maxArea.hpp">
+      <Filter>algor</Filter>
+    </ClInclude>
+    <ClInclude Include="algor\myAtoi.hpp">
+      <Filter>algor</Filter>
+    </ClInclude>
+    <ClInclude Include="algor\reverse.hpp">
+      <Filter>algor</Filter>
+    </ClInclude>
+    <ClInclude Include="algor\algor14_longestCommonPrefix.hpp">
+      <Filter>algor</Filter>
+    </ClInclude>
+    <ClInclude Include="algor\algor9_isPalindrome.hpp">
+      <Filter>algor</Filter>
+    </ClInclude>
+    <ClInclude Include="algor\algor_std.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="algor\algor15_threeSum.hpp">
+      <Filter>algor</Filter>
+    </ClInclude>
+    <ClInclude Include="algor16_threeSumClosest.hpp">
+      <Filter>algor</Filter>
+    </ClInclude>
+    <ClInclude Include="algor20_isValid.hpp">
+      <Filter>algor</Filter>
+    </ClInclude>
+    <ClInclude Include="algor21_mergeTwoLists.hpp">
+      <Filter>algor</Filter>
+    </ClInclude>
+    <ClInclude Include="algor23_mergeKLists.hpp">
+      <Filter>algor</Filter>
+    </ClInclude>
+    <ClInclude Include="algor26_removeDuplicates.hpp">
+      <Filter>algor</Filter>
+    </ClInclude>
+    <ClInclude Include="algor33_search.hpp">
+      <Filter>algor</Filter>
+    </ClInclude>
+    <ClInclude Include="algor46_permute.hpp">
+      <Filter>algor</Filter>
+    </ClInclude>
+    <ClInclude Include="algor43_multiply.hpp">
+      <Filter>algor</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="pch.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="algor.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
